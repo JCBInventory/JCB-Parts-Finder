@@ -1,0 +1,5 @@
+{
+  "name": "JCB Parts Finder – Dark Yellow Edition",
+  "description": "An application for customers to find JCB parts by uploading a data file (CSV, XLSX, TSV) and searching via Item No. or Item Description with typo-tolerance.",
+  "requestFramePermissions": []
+}
